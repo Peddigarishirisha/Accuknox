@@ -138,7 +138,7 @@ const Main = () => {
         <div className="widget-form-container">
           <div className="widget-form-header">
             <span>Add Widget</span>
-            <button className="close-button" onClick={handleCancel}>×</button>
+            <button style={{color:'white',fontSize:'20px'}} onClick={handleCancel}>×</button>
           </div>
           <h3>Personalize your dashboard by adding the following widget:</h3>
           <select

@@ -164,6 +164,7 @@
   background-color: blue;
   display: flex;
   justify-content: space-between; 
+  color: aliceblue;
 }
 
 .navbar-button {
@@ -255,7 +256,3 @@
 .widget-form-container button:hover {
   opacity: 0.8;
 }
-/* .close-button{
-  margin-left: 680px;
-  margin-top: 10px;
-} */
