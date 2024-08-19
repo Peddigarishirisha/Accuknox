@@ -1,0 +1,39 @@
+/* Widget.css */
+.widget {
+    background-color: hsl(0, 33%, 99%);
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 15px; /* Space between widgets */
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    height: 180px;
+    position: relative;
+    left: 50px;
+  }
+  
+  .widget-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .widget-name {
+    font-weight: bold;
+  }
+  
+  .widget-text {
+    font-size: 0.9em;
+    color: #101410;
+  }
+  .addcard{
+    margin-left: 30px;
+    background-color:blue;
+    left: 300px;
+    position: relative;
+    left: 200px;
+    width: 450px;
+    height: 200px;
+  }
+
+  
+  
